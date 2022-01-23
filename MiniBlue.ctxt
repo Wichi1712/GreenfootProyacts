@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MiniBlue
+comment1.params=speed\ rate
+comment1.target=MiniBlue(int,\ int)
+comment2.params=speed\ rate\ Tracking
+comment2.target=MiniBlue(int,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ fireMissile()
+comment5.params=
+comment5.target=void\ Remove()
+numComments=6

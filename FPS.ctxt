@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FPS
+comment1.params=
+comment1.target=FPS()
+comment1.text=\r\n\ Sets\ the\ initial\ scenario\ speed\ and\ creates\ the\ initial\ image\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ for\ mouse\ clicks\ and\ tracks\ frames\ per\ second\ of\ scenario\r\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ Updates\ the\ image\r\n
+comment4.params=spd
+comment4.target=void\ setSpeed(int)
+numComments=5

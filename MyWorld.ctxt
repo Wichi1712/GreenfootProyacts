@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\r\n\ \ \ \ \ Author\:-\ Roshan123\ \ \ \ \ \ \ \ \ \ \ \ **\r\n\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=void\ gameOver()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ Help()
+comment6.params=
+comment6.target=void\ prepare()
+numComments=7

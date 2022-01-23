@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BlueHealthBar
+comment1.params=actor
+comment1.target=BlueHealthBar(greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

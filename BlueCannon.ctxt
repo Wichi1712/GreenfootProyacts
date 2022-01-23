@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BlueCannon
+comment1.params=speed\ rate
+comment1.target=BlueCannon(int,\ int)
+comment2.params=speed\ rate\ Tracking
+comment2.target=BlueCannon(int,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ fireMissile()
+comment5.params=
+comment5.target=void\ checkTank()
+comment6.params=
+comment6.target=void\ checkshooter()
+numComments=7
